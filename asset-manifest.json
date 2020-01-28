@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Signature-Pad/static/css/main.fbaf12dc.chunk.css",
+    "main.js": "/Signature-Pad/static/js/main.0c05a4d7.chunk.js",
+    "main.js.map": "/Signature-Pad/static/js/main.0c05a4d7.chunk.js.map",
+    "runtime-main.js": "/Signature-Pad/static/js/runtime-main.ea013944.js",
+    "runtime-main.js.map": "/Signature-Pad/static/js/runtime-main.ea013944.js.map",
+    "static/js/2.7aaf70da.chunk.js": "/Signature-Pad/static/js/2.7aaf70da.chunk.js",
+    "static/js/2.7aaf70da.chunk.js.map": "/Signature-Pad/static/js/2.7aaf70da.chunk.js.map",
+    "index.html": "/Signature-Pad/index.html",
+    "precache-manifest.74ed4ae33e5efa24eb76482c004ff2fc.js": "/Signature-Pad/precache-manifest.74ed4ae33e5efa24eb76482c004ff2fc.js",
+    "service-worker.js": "/Signature-Pad/service-worker.js",
+    "static/css/main.fbaf12dc.chunk.css.map": "/Signature-Pad/static/css/main.fbaf12dc.chunk.css.map",
+    "static/js/2.7aaf70da.chunk.js.LICENSE": "/Signature-Pad/static/js/2.7aaf70da.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Signature-Pad/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea013944.js",
+    "static/js/2.7aaf70da.chunk.js",
+    "static/css/main.fbaf12dc.chunk.css",
+    "static/js/main.0c05a4d7.chunk.js"
+  ]
+}
