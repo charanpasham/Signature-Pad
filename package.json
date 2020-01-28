@@ -1,7 +1,8 @@
 {
+  "homepage": "http://charanpasham.github.io/Signature-Pad/",
   "name": "convasapp",
   "version": "0.1.0",
-  "private": true,
+  "private": true, 
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -9,6 +10,8 @@
     "react-signature-canvas": "^1.0.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
@@ -25,5 +28,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
